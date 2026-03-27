@@ -1,0 +1,8 @@
+title: Looped.chat API Docs
+description: API reference for the Looped.chat autonomous AI follow-up agent, Solano.
+url: https://loopedchat.github.io
+baseurl: /quick-start
+theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-seo-tag
